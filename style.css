@@ -1,0 +1,8 @@
+.slider-container{
+    position: relative;
+}
+.slider-heading{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
